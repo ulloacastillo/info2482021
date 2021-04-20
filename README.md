@@ -40,3 +40,4 @@ Requisito(s):
 
 > Crear un indicador que muestre, en el caso de ser necesario, cuáles son las sucursales que están pronto a cerrar.
 
+<a href="https://docs.google.com/spreadsheets/d/1TTVckQm3v84VkhcUaw3iqzCthaYaz3awHk-jMt9n5KQ/edit?usp=sharing" target="_blank">Link Matriz de trazabilidad  </a>
